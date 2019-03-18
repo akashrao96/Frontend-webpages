@@ -1,0 +1,116 @@
+body{
+	margin:0;
+	background-color: #dcdcdc;
+}
+#main-header
+{
+	background-color: #3b5998;
+	color: #fff;
+	padding: 0.5px;
+
+
+}
+#main-header h1{
+	padding: 1.6px;
+	margin-left: 140px;
+	margin-bottom: 8px;
+	font-weight: bold;
+	font-size: 275%;
+}
+#main img{
+	
+	
+	width: 40%;
+	margin-left: 140px;
+	margin-top: -40px;
+
+
+}
+#main h4{
+	padding: 10px;
+	margin-top: 35px;
+	margin-left: 140px;
+	font-size: 150%
+
+
+	
+
+}
+#sidebar{
+	float: right;
+	margin-top: -50px;
+	margin-right: 150px;
+	box-sizing: border-box;
+	padding: 5px;
+}
+#sidebar h1{
+	font-size: 250%;
+}
+#sidebar h2{
+	font-size: 150%;
+	margin-top: -35px;
+}
+.box1{
+	padding: 10px;
+	
+}
+.box1 label{
+	
+	font-size: 150%;
+	font-weight: bold;
+	font-family: Arial;
+
+}
+.box1 select[type="select"]{
+	padding: 8px;
+}
+.box1 input[type="date"]{
+	padding: 8px;
+}
+
+.box1 input[type="text"]{
+	padding: 8px;
+}
+.box1 button[type="button"]{
+	padding: 8px;
+	background-color: green;
+	color: white;
+	font-size: 150%;
+}
+
+#sidebar1{
+	float: right;
+	margin-right:-35px;
+	padding: 25px;
+}
+#sidebar2{
+	float: right;
+	margin-right: 125px;
+	padding: 25px;
+}
+#sidebar2 a{
+	color: #fff;
+	
+	
+}
+#sidebar a{
+	
+	
+	text-decoration:none;
+}
+#main-footer{
+	background-color: white;
+	
+	letter-spacing: 0.1em;
+	word-spacing: 0.7em;
+	
+	text-align: left;
+	padding: 40px;
+	margin-top: 375px;
+
+}
+#main-footer a{
+	text-decoration:none;
+}
+
+
