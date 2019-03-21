@@ -1,0 +1,59 @@
+*{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+
+}
+body
+{
+	
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+line-height: 1.5;
+ }
+ .showcase{
+	 
+	
+ 	background-image: url("beer.jpg");
+ 	height: 100vh;
+ 	background-size: cover;
+	 background-position: center;
+	 display: flex;
+	 flex-direction: column;
+ 	
+color: rgb(255, 255, 255);
+ 
+ 	text-align:center;
+ 	padding: 0 20px;
+}
+.content{
+	align-items: center;
+	margin: auto;
+	padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+.content a{
+	background-color: #b33434d7;
+    text-decoration: none;
+    color: aliceblue;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+	border-radius: 10px;
+	margin: auto;
+}
+.container{
+	padding: 15px;
+	text-align: center;
+	margin: 0;
+	
+    background: #333;
+    color:white;
+}
+.container h1{
+	
+}
+	.showcase .button:hover{
+		background-color:rgba(23, 75, 50, 0.479) ;
+		color: white;
+
+	}
